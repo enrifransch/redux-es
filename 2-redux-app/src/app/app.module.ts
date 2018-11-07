@@ -13,7 +13,7 @@ import { contadorReducer } from './contador/contador.reducer';
   declarations: [
     AppComponent,
     HijoComponent,
-    NietoComponent
+    NietoComponent 
   ],
   imports: [
     BrowserModule,
